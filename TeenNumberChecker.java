@@ -1,3 +1,8 @@
+/*
+TeenNumberCheker.java
+Michael McCreary
+14/10/2023
+*/
 public class TeenNumberChecker {
     public static void main(String[] args) {
 
