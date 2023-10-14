@@ -1,3 +1,8 @@
+/*
+SecondsAndMinutesChallenge.java
+Michael McCreary
+14/10/2023
+*/
 public class SecondsAndMinutesChallenge{
     public static void main(String[] args) {
 
